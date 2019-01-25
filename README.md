@@ -2,7 +2,7 @@
 A Mandelbrot set renderer I wrote to test out WebAssembly
 
 ### Features
-- Click to zoom
+- Left-click to zoom
   - Hold `Ctrl` to zoom out
   - Holdn't `Ctrl` to zoom in
   - Hold `Shift` to zoom faster
